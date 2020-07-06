@@ -97,7 +97,7 @@ Learn some ways to use arrays:
 
 ### Isolate
 
-- `for ... of`: [examples](../isolate/for-fo/examples), [exercises](../isolate/for-of/exercises)
+- `for ... of`: [examples](../isolate/for-of/examples), [exercises](../isolate/for-of/exercises)
 
 ### Integrate
 
@@ -105,7 +105,7 @@ Build a simple website that stores user input in an array.
 
 The project this week is not collaborative.  You work together in your small groups, but should not be working on the same repository.
 
-- [Week 1 in-class project](https://github.com/HackYourFutureBelgium/testing-integrate-week-2) (starter repo)
+- [Week 1 in-class project](https://github.com/HackYourFutureBelgium/testing-integrate-week-1) (starter repo)
 
 Helpful code to study:
 
@@ -126,15 +126,30 @@ Helpful code to study:
 #### JavaScript
 
 - [`break` & `continue`](https://javascript.info/while-for)
+- `study.hackyourfuture.be`
+  - [Arrays & Objects](https://study.hackyourfuture.be/javascript/fundamentals#arrays-and-objects)
+  - [So Many Loops](https://study.hackyourfuture.be/javascript/fundamentals#so-many-loops)
 - Objects
   - [javascript.info](https://javascript.info/object)
+  - [dots vs brackets](https://www.youtube.com/watch?v=7lQ31dJEYoM)
   - [dots vs brackets](https://github.com/janke-learning/dots-vs-brackets)
   - [`for in`](https://javascript.info/object#the-for-in-loop)
+- [Controlling Logical Flow](https://shawnr.gitbooks.io/practical-introduction-to-javascript/controlling-logical-flow/)
 
+> Are we missing a great resource? Send us a PR!
 
 ---
 
 ### Exercises
+
+- [Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
+  - Fork and clone this repo
+  - :egg: write up 3 Codewars challenges
+  - :hatching_chick_: why stop at 3?
+- [Document and Pass](https://github.com/HackYourFutureBelgium/document-and-pass/)
+  - Fork and clone this repo
+  - :egg: Document and pass any 3 of the exercises
+  - :hatching_chicks: Why stop at 3?
 
 ---
 
@@ -152,4 +167,4 @@ Helpful code to study:
 - [ ] [A project board](https://github.com/user-name/repo-name/projects/X) with all issues moved to "Done"
 ```
 
-####
+#### Coming Soon
