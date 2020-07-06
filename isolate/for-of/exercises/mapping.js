@@ -10,14 +10,13 @@ const mapToNumber = (arr) => {
   if (!Array.isArray(arr)) { throw new TypeError('arr'); }
 
   const numberValues = [];
-  for (let _ of _) {
-
+  for (let item of arr) {
+   numberValues.push(Number(item));
+  
   }
 
   return numberValues;
 };
-
-
 describe('mapToNumber casts each element in an array to type "number"', () => {
   describe('it correctly converts the values in an array', () => {
     it('returns an empty array if an empty array is passed', () => {

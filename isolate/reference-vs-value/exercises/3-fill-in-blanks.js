@@ -5,7 +5,7 @@ const tables = ['wood', 'metal', 'plastic'];
 const sofas = ['cotton', 'wool', 'pleather'];
 
 // fill in the empty array to pass the tests
-const test1 = deepCompareArrays([_], sofas);
+const test1 = deepCompareArrays(actual, sofas);
 console.assert(test1, 'Test 1');
 
 sofas[1] = 'plaid';

@@ -10,12 +10,15 @@ const filterOutStrings = (arr) => {
   if (!Array.isArray(arr)) { throw new TypeError('arr'); }
 
   const noStrings = [];
-  for (let _ of _) {
-
+  for (let value of arr) {
+  if(typeof(value) !=='string' ){
+    noStrings.push(value);
+  }
   }
 
   return noStrings;
 };
+
 
 
 describe('filterOutStrings removes all "string" values from an array', () => {
